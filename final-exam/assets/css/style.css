@@ -1,7 +1,5 @@
 body{
   max-width: 1024px;
-  margin-left: auto;
-  margin-right: auto;
 }
 #header, #header1 {
   background-image: radial-gradient(circle, #093da3, #0c376b, #0d2c57, #132b4d, #14243b);
